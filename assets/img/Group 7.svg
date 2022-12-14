@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119.84" height="89.931" viewBox="0 0 119.84 89.931">
+  <defs>
+    <filter id="Path_19" x="0" y="0" width="119.84" height="89.931" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#869500" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_20" x="33.526" y="18.609" width="62.703" height="62.703" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#869500" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(698.023 43.316)">
+    <g transform="matrix(1, 0, 0, 1, -698.02, -43.32)" filter="url(#Path_19)">
+      <path id="Path_19-2" data-name="Path 19" d="M-685.023-9.074c1.368-1.777,2.64-3.64,4.123-5.315a49.574,49.574,0,0,1,14.824-11.584,39.374,39.374,0,0,1,13.888-4.135c11.218-1.13,21.018,2.346,29.8,9.144a57.513,57.513,0,0,1,10.507,10.812,2.876,2.876,0,0,1,.006,3.6C-617.389.683-623.993,6.592-632.4,10.289a38.8,38.8,0,0,1-11.818,3.123c-9.768.979-18.595-1.6-26.69-6.983a55.714,55.714,0,0,1-13.436-12.9,10.692,10.692,0,0,1-.679-1.159Zm36.846-14.73a15.489,15.489,0,0,0-15.444,15.89A15.587,15.587,0,0,0-647.73,7.119,15.66,15.66,0,0,0-632.668-8.836,15.517,15.517,0,0,0-648.177-23.8Z" transform="translate(698.02 43.32)" fill="#869500" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -698.02, -43.32)" filter="url(#Path_20)">
+      <path id="Path_20-2" data-name="Path 20" d="M-517.345,50.047a8.38,8.38,0,0,1-8.429,8.377,8.329,8.329,0,0,1-8.274-8.373,8.385,8.385,0,0,1,8.477-8.329A8.286,8.286,0,0,1-517.345,50.047Z" transform="translate(575.57 -15.11)" fill="#869500" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
